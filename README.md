@@ -12,7 +12,7 @@ professionals (Director / VP / Partner level).
 
 ```bash
 # 1. Clone / unzip and enter the directory
-cd sales_intel
+cd AI-Sales-Intelligent-Assistant
 
 # 2. Set up Python env (Python 3.10+)
 python -m venv .venv
